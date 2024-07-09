@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "age": 29,
+        "email": "alice@example.com",
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "age": 34,
+        "email": "bob@example.com",
+        "isActive": false
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "age": 22,
+        "email": "charlie@example.com",
+        "isActive": true
+    },
+    {
+        "id": 4,
+        "name": "Diana",
+        "age": 28,
+        "email": "diana@example.com",
+        "isActive": true
+    },
+    {
+        "id": 5,
+        "name": "Eve",
+        "age": 31,
+        "email": "eve@example.com",
+        "isActive": false
+    },
+    {
+        "id": 6,
+        "name": "Frank",
+        "age": 45,
+        "email": "frank@example.com",
+        "isActive": true
+    }
+]
